@@ -25,7 +25,7 @@ SECRET_KEY = '5q3sa77=lnrgl^os&by!0q+k%b0!z5lphj#x!bujt(*x=fsh#&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["sample2nagi.herokuapp.com/","*"]
 
 
 # Application definition
